@@ -1,3 +1,5 @@
+Zip password: `hackthebox`
+
 <details>
   <summary>Flag MD5 (for checking ONLY)</summary>
   
